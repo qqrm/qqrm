@@ -36,7 +36,7 @@ I'm a Lead Rust Developer with almost a decade of experience in backend developm
 
 ---
 
-Currently, I'm focused on sharpening my leadership skills on complex projects. I'm not actively looking for new job, but I'm open to Rust collaborations or consulting gigs.
+Currently, I'm focused on sharpening my leadership skills on complex projects. I'm not actively looking for a new job, but I'm open to Rust collaborations or consulting gigs.
 
 I love sharing knowledge, mentoring, exploring Rust use cases, and advocating for clean, efficient code.  
 Feel free to ask me about transitioning to Rust, performance optimization, or crafting maintainable architectures.
