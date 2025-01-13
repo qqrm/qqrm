@@ -1,6 +1,6 @@
 ### Hey there, I'm Alexey, also known as qqrm :wave:
 
-I'm a Lead Rust Developer with almost a decade of experience in backend development, CAD systems, smart contracts, and SORM. I also love managing and mentoring dev teams.
+I'm a Rust Team Lead with over a decade of experience in backend development, CAD systems, smart contracts, and ORM. I am passionate about managing and mentoring development teams, fostering collaboration, and driving successful project outcomes.
 
 ---
 
