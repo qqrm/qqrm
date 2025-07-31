@@ -41,7 +41,7 @@ Currently, I'm focused on sharpening my leadership skills on complex projects. I
 I love sharing knowledge, mentoring, exploring Rust use cases, and advocating for clean, efficient code.  
 Feel free to ask me about transitioning to Rust, performance optimization, or crafting maintainable architectures.
 
-**Check out my [CV here](https://github.com/qqrm/CV).**
+**Check out my [CV here](https://qqrm.github.io/CV/).**
 
 You can reach me on [Telegram](https://leqqrm.t.me) or by [email](mailto:qqrm@vivaldi.net).
 
