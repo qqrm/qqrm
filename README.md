@@ -50,7 +50,7 @@ You can reach me on [Telegram](https://leqqrm.t.me) or by [email](mailto:qqrm@vi
 
 I’m also into distributed systems, cryptography, and building secure, scalable apps. Beyond coding, I'm a cinema buff (2,300+ movies, 400+ series logged on [Kinopoisk](https://www.kinopoisk.ru/user/13870500/go/)), write poetry, play ukulele and guitar, go hiking, and enjoy sweet cider. Plus, I collect keyboard smartphones and vinyl records.
 
-Oh, and I use Edge on Arch, btw!
+Oh, and I used Edge on Arch, btw!
 
 
 
