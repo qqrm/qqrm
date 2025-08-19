@@ -39,7 +39,7 @@ There's so much untapped potential there, and it's wild how much impact it can h
 
 ---
 
-Currently, I'm focused on sharpening my leadership skills on complex projects. I'm not actively looking for a new job, but I'm open to Rust collaborations or consulting gigs.
+Currently, I'm focused on sharpening my leadership skills on complex projects. I'm open to Rust collaborations or consulting gigs.
 
 I love sharing knowledge, mentoring, exploring Rust use cases, and advocating for clean, efficient code.  
 Feel free to ask me about transitioning to Rust, performance optimization, or crafting maintainable architectures.
@@ -49,10 +49,3 @@ Feel free to ask me about transitioning to Rust, performance optimization, or cr
 You can reach me on [Telegram](https://leqqrm.t.me) or by [email](mailto:qqrm@vivaldi.net).
 
 I’m also into distributed systems, cryptography, and building secure, scalable apps. Beyond coding, I'm a cinema buff (2,300+ movies, 400+ series logged on [Kinopoisk](https://www.kinopoisk.ru/user/13870500/go/)), write poetry, play ukulele and guitar, go hiking, and enjoy sweet cider. Plus, I collect keyboard smartphones and vinyl records.
-
-Oh, and I used Edge on Arch, btw!
-
-
-
-
-
