@@ -5,10 +5,6 @@ Engineering leader with 15+ years in software and about five years in leadership
 And yeah, lately I've been seriously into agent-based programming: practicing it, loving it, and extracting all the real-world value I can from it.
 There's so much untapped potential there, and it's wild how much impact it can have when applied thoughtfully.
 
-### Projects
-
-This profile showcases my selected projects. For experiments, prototypes, and ongoing development, visit **[QQRM Labs](https://github.com/qqrm-labs)**.
-
 ---
 
 ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white&style=for-the-badge)
