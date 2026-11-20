@@ -7,7 +7,9 @@ There's so much untapped potential there, and it's wild how much impact it can h
 
 ### Projects
 
-This profile is for my more or less finished, presentable projects. For experiments, works in progress, and the less presentable stuff, head over to [QQRM Labs](https://github.com/qqrm-labs).
+I build and maintain practical software for myself and the community. My personal account is home to the engineering products and reusable project templates I use and am happy to stand behind.
+
+[QQRM Labs](https://github.com/qqrm-labs) is for experiments, unfinished work, and ideas that still need validation.
 
 ---
 
