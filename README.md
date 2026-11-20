@@ -11,6 +11,11 @@ I build and maintain practical software for myself and the community. My persona
 
 [QQRM Labs](https://github.com/qqrm-labs) is for experiments, unfinished work, and ideas that still need validation.
 
+### Telegram feeds
+
+- **[Subscribe to This Week in Rust](https://t.me/yatwir)** — Rust news, articles, and community updates from This Week in Rust, delivered automatically by my bot.
+- **[Subscribe to GitHub Daily Digest](https://t.me/le_trends)** — A daily digest of interesting GitHub updates.
+
 ---
 
 ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white&style=for-the-badge)
