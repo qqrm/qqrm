@@ -11,11 +11,11 @@ I also build personal projects. They're much smaller in scope than my profession
 
 I use and enjoy my Windows utilities, including [BrightWheel](https://github.com/qqrm/brightwheel) and [Rust Switcher](https://github.com/qqrm/rust-switcher-rs), and keep improving them based on that experience — dogfooding in practice.
 
-My other projects include experiments, serverless automation on GitHub Actions (mostly Telegram bots), and project templates where I explore engineering practices. You can browse them across [my repositories](https://github.com/qqrm?tab=repositories) and [QQRM Labs](https://github.com/qqrm-labs).
+My other projects include experiments, serverless automation on GitHub Actions (mostly Telegram bots), and project templates where I explore engineering practices. You can browse them across [my repositories](https://github.com/qqrm?tab=repositories), [QQRM Labs](https://github.com/qqrm-labs) (active experiments), and [QQRM Legacy](https://github.com/qqrm-legacy) (finished and frozen projects that still live on).
 
 ### Telegram feeds
 
-- **[Subscribe to This Week in Rust](https://t.me/yatwir)** — Rust news, articles, and community updates from This Week in Rust, delivered automatically by my bot.
+- **[Subscribe to This Week in Rust](https://t.me/yatwir)** — Rust news, articles, and community updates from This Week in Rust, delivered automatically by [my bot](https://github.com/qqrm-legacy/twir-deploy-notify).
 - **[Subscribe to GitHub Daily Digest](https://t.me/le_trends)** — A daily digest of interesting GitHub updates.
 
 ---
