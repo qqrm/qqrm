@@ -5,6 +5,14 @@ Engineering leader with 15+ years in software and about five years in leadership
 And yeah, lately I've been seriously into agent-based programming: practicing it, loving it, and extracting all the real-world value I can from it.
 There's so much untapped potential there, and it's wild how much impact it can have when applied thoughtfully.
 
+### Personal projects
+
+I also build personal projects. They're much smaller in scope than my professional work, but they offer a practical look at how I approach engineering.
+
+I use and enjoy my Windows utilities, including [BrightWheel](https://github.com/qqrm/brightwheel) and [Rust Switcher](https://github.com/qqrm/rust-switcher-rs), and keep improving them based on that experience — dogfooding in practice.
+
+My other projects include experiments, serverless automation on GitHub Actions (mostly Telegram bots), and project templates where I explore engineering practices. You can browse them across [my repositories](https://github.com/qqrm?tab=repositories) and [QQRM Labs](https://github.com/qqrm-labs).
+
 ### Telegram feeds
 
 - **[Subscribe to This Week in Rust](https://t.me/yatwir)** — Rust news, articles, and community updates from This Week in Rust, delivered automatically by my bot.
