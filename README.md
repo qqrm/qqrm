@@ -1,9 +1,15 @@
-### Hey there, I'm Alexey, also known as qqrm :wave:
+# Alexey Belyakov (qqrm)
 
-Engineering leader with 15+ years in software and about five years in leadership, focused on regulated and high-trust product delivery. I build cross-functional backend, DevOps, and QA teams, align architecture and release governance, and keep reliability, security, and compliance expectations met.
+**Head of Engineering | AI Transformation | Agentic Software Development**
 
-And yeah, lately I've been seriously into agent-based programming: practicing it, loving it, and extracting all the real-world value I can from it.
-There's so much untapped potential there, and it's wild how much impact it can have when applied thoughtfully.
+I build engineering organizations and transform software delivery through AI agents, with human accountability for architecture, quality, security, reliability and cost.
+
+- 15+ years in software development; 7+ years in engineering leadership.
+- Led an engineering organization of up to 45 specialists across 5+ cross-functional teams; reduced task-to-release lead time by approximately 50%.
+- Led the C++ to Rust migration of a production software-defined storage product using an agentic delivery model in a two-engineer team.
+- Focus: AI adoption at organizational scale, engineering operating models, agent orchestration, executable acceptance and engineering productivity.
+
+**[CV and professional experience](https://qqrm.github.io/CV/) · [LinkedIn](https://www.linkedin.com/in/qqrm/)**
 
 ### Personal projects
 
@@ -52,12 +58,8 @@ My other projects include experiments, serverless automation on GitHub Actions (
 
 ---
 
-Currently, I'm focused on sharpening my leadership skills on complex projects. I'm open to Rust collaborations or consulting gigs.
+I'm interested in Head of Engineering, Director of Engineering, AI Engineering Transformation Lead and CTO roles in product companies, particularly complex systems and infrastructure.
 
-I love sharing knowledge, mentoring, exploring Rust use cases, and advocating for clean, efficient code.  
-Feel free to ask me about transitioning to Rust, performance optimization, or crafting maintainable architectures.
-
-**Check out my [CV here](https://qqrm.github.io/CV/).**
 
 You can reach me on [Telegram](https://leqqrm.t.me) or by [email](mailto:qqrm@vivaldi.net).
 
